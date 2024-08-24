@@ -1,6 +1,17 @@
 @import url(style.css);
 
 /*------------------------ Header -------------------------*/
+
+h2{
+    color: var(--cor-titulos);
+}
+
+main{
+    float:inline-end;
+    height: 100vh;
+    width: 95%;
+}
+
 .header{
     display: flex;
     justify-content: space-between;
@@ -25,7 +36,7 @@
 .user h3{
     padding: 0 1.2vw;
     color: var(--texto-header);
-    font-size: 1.2rem;
+    font-size: 1.05rem;
 }
 
 .user-menu{
@@ -43,9 +54,10 @@
 /*------------------------ NavBar -------------------------*/
 .navbar{
     height: 100dvh;
-    width: 8vw;
+    width: 5%;
     max-width: 80px;
     background: var(--cor-navbar);
+    position: absolute;
 }
 
 .navbar-items{
@@ -56,11 +68,69 @@
     justify-content: space-around;
 }
 
-.navbar-items svg:hover, .navbar-items path:hover{
-    fill: var(--cor-azul2);
-    cursor:pointer;
+.navbar-items svg{
+    width: 1.8vw;
 }
 
-.navbar-items svg{
-    border:solid red;    
+/*------------------------ Fim NavBar -------------------------*/
+
+/*------------------------ Conteudo -------------------------*/
+
+.dashboard-title{
+    font: bold 2rem 'Inter',sans-serif;
+    text-align: center;
+    margin-top: 5vh;
+    color: var(--cor-titulos);
+}
+
+.relatorios{
+    width: 90%;
+    height: 50vh;
+    float: inline-end;
+    background-color: var(--cor-section);
+    margin: 4vh 0;
+    border-radius: 1vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.relatorios h2{
+    font: bold 1.2rem 'Inter',sans-serif;   
+    margin: 1vh;
+}
+
+.relatorios hr{
+    width: 100%;
+    border: solid 0.7px var(--cor-borda);
+}
+
+.relatorio-funcionario, .relatorio-cliente{
+    width: 40%;
+    height: 80%;
+    background-color: var(--cor-section2);
+    padding: 1vw;
+    border-radius: 0.7vw;
+    box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.dados{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 70%;
+}
+
+.dados div{
+    text-align: center;
+}
+
+.dados h1{
+    font: bold 5rem 'Inter',sans-serif;
+    margin: 3vw 2vw;
+}
+
+.dados h2{
+    font: 600 1rem 'Inter',sans-serif;
 }

@@ -5,9 +5,13 @@
     --cor-header: #2C2E3E;
     --cor-navbar: #1b1d27;
     --texto-header: #ffffff;
+    --cor-body: #E9EAF0;
     --cor-borda: #808080;
     --cor-azul1: #3CCEF6;
     --cor-azul2: #90E7FF;
+    --cor-section: #F0F0F0;
+    --cor-section2: #EDEDED;
+    --cor-titulos: #273B4A;
 }
 
 *{
@@ -18,5 +22,5 @@
 body {
     margin: 0;
     padding: 0;
-    background-color: var(--texto-header);  
+    background-color: var(--cor-body);  
 }
