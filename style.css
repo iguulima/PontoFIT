@@ -9,6 +9,7 @@
     --cor-borda: #808080;
     --cor-azul1: #3CCEF6;
     --cor-azul2: #90E7FF;
+    --cor-vermelho: #F63C3F;
     --cor-section: #f6f6f6;
     --cor-section2: #EDEDED;
     --cor-titulos: #273B4A;
@@ -23,4 +24,16 @@ body {
     margin: 0;
     padding: 0;
     background-color: var(--cor-body);  
+}
+
+.blue{
+    color: var(--cor-azul1);
+}
+
+.red{
+    color: var(--cor-vermelho);
+}
+
+.gray{
+    color: var(--cor-borda);
 }

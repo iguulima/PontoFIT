@@ -6,7 +6,6 @@
         <title>Inicio - PontoFIT</title>
         <link rel="stylesheet" href="dashboard.css">
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-
     </head>
     <body>
         <header class="header">
@@ -18,18 +17,19 @@
                 </svg>
             </div>
 
-            <div class="dropup-center dropup">
-                <button class="btn dropdown-toggle" type="button" data-bs-toggle="dropdown" aria-expanded="false">
-                    <span class="text-light me-2 fw-medium">IGOR LIMA DE SOUSA</span>
-                   <svg width="3rem" height="55" viewBox="0 0 55 55" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <path d="M27.5 0C12.3085 0 0 12.3085 0 27.5C0 42.6915 12.3085 55 27.5 55C42.6915 55 55 42.6915 55 27.5C55 12.3085 42.6915 0 27.5 0ZM27.5 10.6452C32.8891 10.6452 37.2581 15.0141 37.2581 20.4032C37.2581 25.7923 32.8891 30.1613 27.5 30.1613C22.1109 30.1613 17.7419 25.7923 17.7419 20.4032C17.7419 15.0141 22.1109 10.6452 27.5 10.6452ZM27.5 48.7903C20.9909 48.7903 15.1583 45.8407 11.255 41.2278C13.3397 37.3024 17.4204 34.5968 22.1774 34.5968C22.4435 34.5968 22.7097 34.6411 22.9647 34.7188C24.4062 35.1845 25.9143 35.4839 27.5 35.4839C29.0857 35.4839 30.6048 35.1845 32.0353 34.7188C32.2903 34.6411 32.5564 34.5968 32.8226 34.5968C37.5796 34.5968 41.6603 37.3024 43.745 41.2278C39.8417 45.8407 34.0091 48.7903 27.5 48.7903Z" fill="white"/>
-                    </svg>
-                </button>
-                <ul class="dropdown-menu">
-                  <li><a class="dropdown-item" href="#">Perfil</a></li>
-                  <li><a class="dropdown-item" href="#">Logout</a></li>
-                </ul>
-              </div>
+            <div class="user">
+                <h3>IGOR LIMA DE SOUSA</h3>
+                <a href="#">
+                    <div class="user-menu">
+                        <svg width="3rem" height="55" viewBox="0 0 55 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M27.5 0C12.3085 0 0 12.3085 0 27.5C0 42.6915 12.3085 55 27.5 55C42.6915 55 55 42.6915 55 27.5C55 12.3085 42.6915 0 27.5 0ZM27.5 10.6452C32.8891 10.6452 37.2581 15.0141 37.2581 20.4032C37.2581 25.7923 32.8891 30.1613 27.5 30.1613C22.1109 30.1613 17.7419 25.7923 17.7419 20.4032C17.7419 15.0141 22.1109 10.6452 27.5 10.6452ZM27.5 48.7903C20.9909 48.7903 15.1583 45.8407 11.255 41.2278C13.3397 37.3024 17.4204 34.5968 22.1774 34.5968C22.4435 34.5968 22.7097 34.6411 22.9647 34.7188C24.4062 35.1845 25.9143 35.4839 27.5 35.4839C29.0857 35.4839 30.6048 35.1845 32.0353 34.7188C32.2903 34.6411 32.5564 34.5968 32.8226 34.5968C37.5796 34.5968 41.6603 37.3024 43.745 41.2278C39.8417 45.8407 34.0091 48.7903 27.5 48.7903Z" fill="white"/>
+                        </svg>                    
+                        <svg width="1rem" height="11" viewBox="0 0 16 11" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M6.98486 9.74365L0.344238 3.10303C-0.114746 2.64404 -0.114746 1.90186 0.344238 1.44775L1.44775 0.344238C1.90674 -0.114746 2.64893 -0.114746 3.10303 0.344238L7.81006 5.05127L12.5171 0.344238C12.9761 -0.114746 13.7183 -0.114746 14.1724 0.344238L15.2759 1.44775C15.7349 1.90674 15.7349 2.64893 15.2759 3.10303L8.63525 9.74365C8.18604 10.2026 7.44385 10.2026 6.98486 9.74365Z" fill="white"/>
+                        </svg> 
+                    </div>
+                </a>
+            </div>
         </header>
 
         <nav class="navbar-lateral">
@@ -59,37 +59,87 @@
 
         <main>
             <h1 class="dashboard-title">Dashboard</h1>
-            <div class="relatorios">
-                <div class="relatorio-funcionario">
-                    <h2>Funcionários</h2>
-                    <hr>
-                    <div class="dados">
-                        <div><h1 style="color: #3CCEF6">13</h1><h2>Trabalhando</h2></div>
-                        <div><h1 style="color: #F63C3F">2</h1><h2>Irregularidades</h2></div>
-                        <div><h1>12</h1><h2>De Folga</h2></div>
-                    </div>
-                    
-                </div>
-
-                <div class="relatorio-cliente">
-                    <h2>Clientes</h2>
-                    <hr>
-                    <div class="dados">
-                        <div><h1 style="color: #3CCEF6">30</h1><h2>Ativos</h2></div>
-                        <div><h1>1</h1><h2>Faltantes</h2></div>
-                        <div><h1>12</h1><h2>Novos Cadastros</h2></div>
+            <section class="rel-section row">
+                <div class="funcionario-rel col-5">
+                    <h2 class="h5 ms-3">Funcionarios</h2>
+                    <div class="funcionario-dados">
+                        <div>
+                            <h1 class="blue">13</h1>
+                            <h5>Trabalhando</h5>
+                        </div>
+                        <div>
+                            <h1 class="red">2</h1>
+                            <h5>Irregularidades</h5>
+                        </div>
+                        <div>
+                            <h1 class="gray">12</h1>
+                            <h5>De Folga</h5>
+                        </div>
                     </div>
                 </div>
-            </div>
-
-            <div>
-                <div class="cadastro">
-                    
+                <div class="cliente-rel col-5">
+                    <h2 class="h5 ms-3">Clientes</h2>
+                    <div class="cliente-dados">
+                        <div>
+                            <h1 class="blue">13</h1>
+                            <h5>Trabalhando</h5>
+                        </div>
+                        <div>
+                            <h1 class="gray">2</h1>
+                            <h5>Irregularidades</h5>
+                        </div>
+                        <div>
+                            <h1 class="gray">12</h1>
+                            <h5>De Folga</h5>
+                        </div>
+                    </div>
                 </div>
-                <div class="registros-ponto">
+            </section>
+
+            <section class="second-section">
+                <div class="register-link col-5">
 
                 </div>
-            </div>
+
+                <div class="new-marks col-6">
+                    <table class="table table-sm">
+                        <thead>
+                          <tr>
+                            <th scope="col"></th>
+                            <th scope="col">Nome</th>
+                            <th scope="col">Perfil</th>
+                            <th scope="col">Horario</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          <tr>
+                            <th scope="row">1</th>
+                            <td>Mark</td>
+                            <td>Otto</td>
+                            <td>@mdo</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">2</th>
+                            <td>Jacob</td>
+                            <td>Thornton</td>
+                            <td>@fat</td>
+                          </tr>
+                          <tr>
+                            <th scope="row">3</th>
+                            <td colspan="2">Larry the Bird</td>
+                            <td>@twitter</td>
+                          </tr>
+                        </tbody>
+                      </table>
+                </div>
+            </section>
+            
+            
+
+
+
+
+
         </main>
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     </body>

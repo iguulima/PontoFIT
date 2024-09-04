@@ -53,17 +53,17 @@ main{
 
 /*------------------------ NavBar -------------------------*/
 .navbar-lateral{
-    height: 100dvh;
+    position: absolute;
+    height: 100%;
     width: 5%;
     max-width: 80px;
     background: var(--cor-navbar);
-    position: absolute;
-} 
+}
 
 .navbar-items{
     height: 75vh;
-    display: flex; 
-    flex-direction: column; 
+    display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: space-around;
 }
@@ -74,7 +74,7 @@ main{
 
 /*------------------------ Fim NavBar -------------------------*/
 
-/*------------------------ Conteudo -------------------------*/
+/*------------------------ Relatorios -------------------------*/
 
 .dashboard-title{
     font: bold 2rem 'Inter',sans-serif;
@@ -83,8 +83,8 @@ main{
     color: var(--cor-titulos);
 }
 
-.relatorios{
-    width: 90%;
+.rel-section{
+    width: 95%;
     height: 50vh;
     float: inline-end;
     background-color: var(--cor-section);
@@ -95,42 +95,69 @@ main{
     align-items: center;
 }
 
-.relatorios h2{
-    font: bold 1.2rem 'Inter',sans-serif;   
-    margin: 1vh;
-}
-
-.relatorios hr{
-    width: 100%;
-    border: solid 0.7px var(--cor-borda);
-}
-
-.relatorio-funcionario, .relatorio-cliente{
+.funcionario-rel{
     width: 40%;
     height: 80%;
     background-color: var(--cor-section2);
     padding: 1vw;
     border-radius: 0.7vw;
     box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.25);
-
 }
 
-.dados{
+.funcionario-rel h2, .cliente-rel h2{
+    font: bold 1.2rem 'Inter',sans-serif;   
+    margin: 1vh;
+}
+
+.cliente-rel{
+    width: 40%;
+    height: 80%;
+    background-color: var(--cor-section2);
+    padding: 1vw;
+    border-radius: 0.7vw;
+    box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.25);
+}
+
+.funcionario-dados, .cliente-dados{
     display: flex;
     justify-content: space-around;
     align-items: center;
     height: 70%;
+    
 }
 
-.dados div{
+.funcionario-dados div, .cliente-dados div{
     text-align: center;
 }
 
-.dados h1{
+
+
+.funcionario-dados h1, .cliente-dados h1{
     font: bold 5rem 'Inter',sans-serif;
     margin: 3vw 2vw;
 }
 
-.dados h2{
-    font: 600 1rem 'Inter',sans-serif;
+.funcionario-dados h5, .cliente-dados h5{
+    font: bold 1.1rem 'Inter',sans-serif;
+}
+
+/*------------------------ Fim Relatorios -------------------------*/
+
+/*------------------------ Link Cadastro -------------------------*/
+
+.second-section{
+    width: 95%;
+    height: 50%;
+    float: inline-end;
+    background-color: var(--cor-section);
+    border-radius: 1vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.register-link, .new-marks{
+    height: 80%;
+    background-color: var(--cor-section2);
+    border-radius: 1vw;
 }
