@@ -161,3 +161,10 @@ main{
     background-color: var(--cor-section2);
     border-radius: 1vw;
 }
+
+.register-btn{
+    background-color: var(--cor-header);
+    display: inline-block;
+    padding: 1vw;
+    border-radius: 10vw;
+}
