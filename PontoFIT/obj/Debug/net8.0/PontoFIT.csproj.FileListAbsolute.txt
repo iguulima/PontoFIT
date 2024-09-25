@@ -28,3 +28,4 @@ D:\Programação\projetos\PontoFIT\PontoFIT\obj\Debug\net8.0\refint\PontoFIT.dll
 D:\Programação\projetos\PontoFIT\PontoFIT\obj\Debug\net8.0\PontoFIT.pdb
 D:\Programação\projetos\PontoFIT\PontoFIT\obj\Debug\net8.0\PontoFIT.genruntimeconfig.cache
 D:\Programação\projetos\PontoFIT\PontoFIT\obj\Debug\net8.0\ref\PontoFIT.dll
+D:\Programação\projetos\PontoFIT\PontoFIT\obj\Debug\net8.0\PontoFIT.sourcelink.json

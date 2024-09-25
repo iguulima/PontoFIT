@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Programação\\projetos\\PontoFIT\\PontoFIT\\wwwroot\\img\\login-background.jpg",
+      "PackagePath": "staticwebassets\\img\\login-background.jpg"
+    },
+    {
+      "Id": "D:\\Programação\\projetos\\PontoFIT\\PontoFIT\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
       "Id": "D:\\Programação\\projetos\\PontoFIT\\PontoFIT\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
