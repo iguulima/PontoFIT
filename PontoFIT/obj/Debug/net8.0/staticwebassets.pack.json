@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\PontoFIT.bundle.scp.css"
     },
     {
+      "Id": "D:\\Programação\\projetos\\PontoFIT\\PontoFIT\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
       "Id": "D:\\Programação\\projetos\\PontoFIT\\PontoFIT\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

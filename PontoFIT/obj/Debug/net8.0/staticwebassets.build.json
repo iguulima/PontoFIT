@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2BdrNiT9PRHur5Li1DUdoDDAJd+trgzFeR8FgDB9PuM=",
+  "Hash": "uqxgtAOJqjXxb1EpRrdKLo0kGJr2rV1jfOCwhb6v6kw=",
   "Source": "PontoFIT",
   "BasePath": "_content/PontoFIT",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Programação\\projetos\\PontoFIT\\PontoFIT\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PontoFIT.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Programação\\projetos\\PontoFIT\\PontoFIT\\wwwroot\\css\\login.css",
+      "SourceId": "PontoFIT",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programação\\projetos\\PontoFIT\\PontoFIT\\wwwroot\\",
+      "BasePath": "_content/PontoFIT",
+      "RelativePath": "css/login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
       "Identity": "D:\\Programação\\projetos\\PontoFIT\\PontoFIT\\wwwroot\\css\\site.css",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PontoFIT")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+018ea6371cfea3bfe4cb542c3c70d530c23f1506")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49abf25b13f7ce724131bf7fc41be5c8d5f75fca")]
 [assembly: System.Reflection.AssemblyProductAttribute("PontoFIT")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PontoFIT")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
