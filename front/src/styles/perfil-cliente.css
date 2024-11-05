@@ -1,0 +1,86 @@
+@import url('style-main.css');
+
+/* ------------------------------- Main -------------------------------*/
+
+.nav_login{
+    display: flex;
+    gap: 1rem;
+    margin: 0;
+}
+
+.nav_usuario{
+    color: var(--cor-amarelo);
+    margin: 0;
+}
+
+.nav_foto{
+    width: 15%;
+    margin: 0;
+}
+
+/* ------------------------------- Perfil Usuario -------------------------------*/
+
+.perfil{
+    border: 1px solid #000000;
+    margin: 5%;
+    border-radius: 25px;
+    display: flex;
+    gap: 5rem;
+    align-items: center;
+    padding: 3rem;
+}
+
+.perfil_titulo{
+    color: var(--cor-amarelo);
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 38px;
+    margin-top: 0;
+}
+
+.perfil_texto{
+    color: #FFFFFF;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 0.3rem;
+    margin-bottom: 0;
+}
+
+.container {
+    color: var(--cor-amarelo);
+    font-size: 38px;
+    margin-left: 9rem;
+}
+
+/* ------------------------------- Fim Perfil Usuario -------------------------------*/
+
+
+
+/* ------------------------------- Data Table -------------------------------*/
+
+table {
+    width: 93%;
+    margin-inline: auto;
+    border-spacing: 0px;
+    margin-bottom: 3rem;
+}
+
+tbody{
+    color: #FFF;
+    background-color: #191919;
+}
+
+.table_cabecalho {
+    background-color: var(--cor-amarelo);
+}
+
+.table_cabecalho_fim{
+    padding-inline: 0.8rem;
+}
+
+th {
+    border-right: 1px solid #000000;
+}
