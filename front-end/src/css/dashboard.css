@@ -74,7 +74,6 @@
 
 .second-section{
     width: 95%;
-    height: 50%;
     float: inline-end;
     background-color: var(--cor-section);
     border-radius: 1vw;
@@ -85,13 +84,17 @@
 
 .register-link, .new-marks{
     height: 80%;
+    padding: 0.7rem;
     background-color: var(--cor-section2);
     border-radius: 1vw;
+    box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.25);
+
 }
 
 .register-btn{
+    text-align: center;
     background-color: var(--cor-header);
-    display: inline-block;
-    padding: 1vw;
-    border-radius: 10vw;
+    width: 7vw;
+    padding: 0.5rem;
+    border-radius: 1rem;
 }
