@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programação\\projetos\\PontoFIT\\PontoFIT\\PontoFIT.csproj": {}
+    "D:\\Programação\\Projetos\\PontoFIT\\PontoFIT\\PontoFIT.csproj": {}
   },
   "projects": {
-    "D:\\Programação\\projetos\\PontoFIT\\PontoFIT\\PontoFIT.csproj": {
+    "D:\\Programação\\Projetos\\PontoFIT\\PontoFIT\\PontoFIT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programação\\projetos\\PontoFIT\\PontoFIT\\PontoFIT.csproj",
+        "projectUniqueName": "D:\\Programação\\Projetos\\PontoFIT\\PontoFIT\\PontoFIT.csproj",
         "projectName": "PontoFIT",
-        "projectPath": "D:\\Programação\\projetos\\PontoFIT\\PontoFIT\\PontoFIT.csproj",
-        "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
-        "outputPath": "D:\\Programação\\projetos\\PontoFIT\\PontoFIT\\obj\\",
+        "projectPath": "D:\\Programação\\Projetos\\PontoFIT\\PontoFIT\\PontoFIT.csproj",
+        "packagesPath": "C:\\Users\\igorl\\.nuget\\packages\\",
+        "outputPath": "D:\\Programação\\Projetos\\PontoFIT\\PontoFIT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\igorl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
