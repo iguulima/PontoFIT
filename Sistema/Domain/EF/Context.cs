@@ -45,7 +45,7 @@ namespace Domain.EF
                 t.HasMany(t => t.UsuarioMarcacao)
                     .WithOne(m => m.Usuario)
                     .HasForeignKey(m => m.UsuarioId)
-                    .OnDelete(DeleteBehavior.Cascade); // Exclusão em cascata
+                    .OnDelete(DeleteBehavior.Cascade);
             });
 
             // Configuração da tabela Marcacao
@@ -63,7 +63,11 @@ namespace Domain.EF
                 t.HasOne(t => t.Usuario)
                     .WithMany(u => u.UsuarioMarcacao)
                     .HasForeignKey(t => t.UsuarioId)
-                    .OnDelete(DeleteBehavior.Cascade); // Exclusão em cascata
+                    .OnDelete(DeleteBehavior.Cascade);
+
+                t.Property(t => t.Tipo)
+                    .HasColumnType("varchar(10)")
+                    .IsRequired();
             });
         }
     }

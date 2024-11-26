@@ -1,159 +1,159 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\login.css",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\login.css",
       "PackagePath": "staticwebassets\\css\\login.css"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\logo.png",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\logo.png",
       "PackagePath": "staticwebassets\\css\\logo.png"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\site.css",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\style.css",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\favicon.ico",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\js\\site.js",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0+nSPKjbDXW5CYE4LGxvnMi96wMueLnpMJ83Ab9TtAg=",
+  "Hash": "Rrm1cAm5yXdhU8O3vRsyD9FrXFme/IWhkU5D7jy7MOk=",
   "Source": "Sistema",
   "BasePath": "_content/Sistema",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Sistema\\wwwroot",
       "Source": "Sistema",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\login.css",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\login.css",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "css/login#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -38,10 +38,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\logo.png",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\logo.png",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "css/logo#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -59,10 +59,10 @@
       "OriginalItemSpec": "wwwroot\\css\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\site.css",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\style.css",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\style.css",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\favicon.ico",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\js\\site.js",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Sistema",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "ContentRoot": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\",
       "BasePath": "_content/Sistema",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -839,7 +839,7 @@
   "Endpoints": [
     {
       "Route": "css/login.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\login.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -876,7 +876,7 @@
     },
     {
       "Route": "css/login.zll4m1pu3i.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\login.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -921,7 +921,7 @@
     },
     {
       "Route": "css/logo.7s7xif0gv2.png",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\logo.png",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -966,7 +966,7 @@
     },
     {
       "Route": "css/logo.png",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\logo.png",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\logo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1003,7 +1003,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1040,7 +1040,7 @@
     },
     {
       "Route": "css/site.hdhjllpya4.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\site.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1085,7 +1085,7 @@
     },
     {
       "Route": "css/style.c91c3fznlo.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\style.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1130,7 +1130,7 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\style.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1167,7 +1167,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1212,7 +1212,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\favicon.ico",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1249,7 +1249,7 @@
     },
     {
       "Route": "js/site.6b9nfc4n3r.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1294,7 +1294,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\js\\site.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1331,7 +1331,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1368,7 +1368,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.k9n1kkbua6.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1413,7 +1413,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1450,7 +1450,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.gawgt6fljy.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1495,7 +1495,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1532,7 +1532,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.kao5znno1s.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1577,7 +1577,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1614,7 +1614,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.etnb7xlipe.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1659,7 +1659,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.9n0ta5ieki.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1704,7 +1704,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1741,7 +1741,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.0i1dcxd824.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1786,7 +1786,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1823,7 +1823,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1860,7 +1860,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.jzb7jyrjvs.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1905,7 +1905,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1942,7 +1942,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.vxs71z90fw.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1987,7 +1987,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2024,7 +2024,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2061,7 +2061,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.tgg2bl5mrw.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2106,7 +2106,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.brwg1hntyu.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2151,7 +2151,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2188,7 +2188,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.gf2dxac9qe.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2233,7 +2233,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2270,7 +2270,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.nynt4yc5xr.css",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2315,7 +2315,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.48vr37mrsy.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2360,7 +2360,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2397,7 +2397,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2434,7 +2434,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.pxamm17y9e.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2479,7 +2479,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.hjuzisly30.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2524,7 +2524,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2561,7 +2561,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2598,7 +2598,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.u9xms436mi.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2643,7 +2643,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.u0biprgly9.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2688,7 +2688,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2725,7 +2725,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2762,7 +2762,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.vaswmcjbo4.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2807,7 +2807,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2844,7 +2844,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2881,7 +2881,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.sgi57dik4g.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2926,7 +2926,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zu238p5lxg.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2971,7 +2971,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3008,7 +3008,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.weyt030wr8",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3053,7 +3053,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3090,7 +3090,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5trh6b1mit.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3135,7 +3135,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dsw5v3fbc5.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3180,7 +3180,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3217,7 +3217,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3254,7 +3254,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.vwa26bmbsk.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3299,7 +3299,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3344,7 +3344,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3381,7 +3381,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3418,7 +3418,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3455,7 +3455,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3500,7 +3500,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3545,7 +3545,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.jdpnbaa6vo.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3590,7 +3590,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3627,7 +3627,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.59qolqi738.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3672,7 +3672,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3709,7 +3709,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3746,7 +3746,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3791,7 +3791,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.0td7jq9nxb.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3836,7 +3836,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3873,7 +3873,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3910,7 +3910,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.v12ed9ioy0.js",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3955,7 +3955,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3992,7 +3992,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
-      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {

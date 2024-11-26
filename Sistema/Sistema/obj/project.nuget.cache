@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1hARBPezjH4=",
+  "dgSpecHash": "CTqUYX/FNKI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\Sistema.csproj",
+  "projectFilePath": "D:\\Programação\\Projetos\\PontoFIT\\Sistema\\Sistema\\Sistema.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\igorl\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\igorl\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

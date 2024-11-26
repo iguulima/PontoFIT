@@ -16,7 +16,7 @@ namespace Domain.EF
                 Usuario usuario = new Usuario
                 {
                     Login = "admin",
-                    Nome = "admin",
+                    Nome = "Gerencia",
                     Senha = "123",
                     TipoUsuario = TipoUsuario.Admin
                 };

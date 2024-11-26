@@ -8,20 +8,22 @@
     <table class="table table-hover p-3 ">
         <thead>
             <tr class="table-primary">
-                <th>Hora da Marcação</th>
-                <th>Usuário</th>
+                <th>Código do Usuário</th>
                 <th>Nome</th>
+                <th>Horário da Marcação</th>
                 <th>Cargo</th>
+                <th>Tipo</th>
             </tr>
         </thead>
         <tbody>
             @foreach (var marcacao in Model)
             {
                 <tr>
-                    <td>@marcacao.HoraMarcacao.ToString("dd/MM/yyyy HH:mm")</td>
                     <td>@marcacao.UsuarioId</td>
                     <td>@marcacao.Usuario.Nome</td>
+                    <td>@marcacao.HoraMarcacao.ToString("dd/MM/yyyy HH:mm")</td>
                     <td>@marcacao.Usuario.TipoUsuario</td>
+                    <td>@marcacao.Tipo</td>
                 </tr>
             }
         </tbody>

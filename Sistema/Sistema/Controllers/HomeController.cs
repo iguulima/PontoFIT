@@ -90,7 +90,8 @@ namespace Sistema.Controllers
 
                 Marcacao ponto = new Marcacao {
                     UsuarioId = userId,
-                    HoraMarcacao = DateTime.Now
+                    HoraMarcacao = DateTime.Now,
+                    Tipo = "Entrada"
                 };
 
                 Dictionary<string, string> erros = ponto.Salvar(_context);
@@ -103,6 +104,27 @@ namespace Sistema.Controllers
 
             return RedirectToAction("Index");
         }
+        public IActionResult BaterSaida() {
+            try {
+                string userIdStr = User.FindFirstValue(ClaimTypes.NameIdentifier);
+                int userId = int.Parse(userIdStr);
 
+                Marcacao ponto = new Marcacao {
+                    UsuarioId = userId,
+                    HoraMarcacao = DateTime.Now,
+                    Tipo = "Saida"
+                };
+
+                Dictionary<string, string> erros = ponto.Salvar(_context);
+
+                TempData["Mensagem"] = "Ponto registrado com sucesso!";
+            }
+            catch (Exception ex) {
+                TempData["Erro"] = "Erro ao registrar o ponto: " + ex.Message;
+            }
+
+            return RedirectToAction("Index");
+        }
+        
     }
 }

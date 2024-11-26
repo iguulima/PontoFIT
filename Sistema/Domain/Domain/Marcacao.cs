@@ -14,9 +14,10 @@ namespace Domain.Domain
         public DateTime HoraMarcacao { get; set; }
 		public virtual Usuario Usuario { get; set; }
 		public int? UsuarioId { get; set; }
+        public string Tipo { get; set; }
 
-		
-		private Dictionary<string, string> Valida(Marcacao alimento)
+
+        private Dictionary<string, string> Valida(Marcacao alimento)
 		{
             Dictionary<string, string> erros =
                 new Dictionary<string, string>();

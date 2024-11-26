@@ -15,37 +15,29 @@ namespace Sistema.Controllers {
             _context = context;
         }
 
-        // GET: MarcacaoController
         public ActionResult Index() {
-            // Buscar todas as marcações
             List<Marcacao> marcacoes = new Marcacao().BuscarTodos(_context);
 
-            // Carregar os dados dos usuários
             List<Usuario> usuarios = new Usuario().BuscarTodos(_context);
 
-            // Mapear para a ViewModel
             List<MarcacaoViewModel> marcacoesViewModel = marcacoes.Select(m => new MarcacaoViewModel {
                 Id = m.Id,
                 NomeUsuario = usuarios.FirstOrDefault(u => u.Id == m.UsuarioId)?.Nome ?? "Usuário Desconhecido"
             }).ToList();
 
-            // Passar a lista para a View
             return View(marcacoes);
         }
 
 
-        // GET: MarcacaoController/Details/5
         public ActionResult Details(int id) {
             Marcacao marcacao = new Marcacao().BuscarPorId(_context, id);
             return View(marcacao);
         }
 
-        // GET: MarcacaoController/Create
         public ActionResult Create() {
             return View();
         }
 
-        // POST: MarcacaoController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Create(Marcacao marcacao) {
@@ -64,13 +56,11 @@ namespace Sistema.Controllers {
             }
         }
 
-        // GET: MarcacaoController/Edit/5
         public ActionResult Edit(int id) {
             Marcacao marcacao = new Marcacao().BuscarPorId(_context, id);
             return View(marcacao);
         }
 
-        // POST: MarcacaoController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult Edit(int id, Marcacao marcacaoAntiga) {
@@ -95,13 +85,11 @@ namespace Sistema.Controllers {
             }
         }
 
-        // GET: MarcacaoController/Delete/5
         public ActionResult Delete(int id) {
             Marcacao marcacao = new Marcacao().BuscarPorId(_context, id);
             return View(marcacao);
         }
 
-        // POST: MarcacaoController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id) {
@@ -137,7 +125,8 @@ namespace Sistema.Controllers {
                 worksheet.Cells[1, 2].Value = "Codigo";
                 worksheet.Cells[1, 3].Value = "Nome";
                 worksheet.Cells[1, 4].Value = "Cargo";
-                worksheet.Cells[1, 1, 1, worksheet.Dimension.End.Column].Style.Font.Bold = true; // Aplica negrito na linha 1 inteira
+                worksheet.Cells[1, 5].Value = "Tipo";
+                worksheet.Cells[1, 1, 1, worksheet.Dimension.End.Column].Style.Font.Bold = true;
 
 
 
@@ -147,6 +136,7 @@ namespace Sistema.Controllers {
                     worksheet.Cells[row, 2].Value = marcacao.Usuario.Id;
                     worksheet.Cells[row, 3].Value = @marcacao.Usuario.Nome;
                     worksheet.Cells[row, 4].Value = @marcacao.Usuario.TipoUsuario;
+                    worksheet.Cells[row, 5].Value = marcacao.Tipo;
                     row++;
                 }
 
