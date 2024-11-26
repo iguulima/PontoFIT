@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Domain.Domain.Usuario>
+
+@{
+    ViewData["Title"] = "Usuários";
+}
+
+<h1 class="text-center h2 m-3">Lista de Usuários</h1>
+<div class ="table-responsive" style="max-height: 400px; overflow-y: auto;">
+    <table class="table table-hover p-3 ">
+        <thead>
+            <tr class="table-primary">
+                <th>
+                    @Html.DisplayNameFor(model => model.Nome)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Login)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TipoUsuario)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody class="table-group-divider">
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Nome)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Login)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TipoUsuario)
+                    </td>
+                    <td>
+                        <a href="@Url.Action("Edit", new { id = item.Id })" class="custom-link btn btn-outline-primary btn-sm" title="Editar">
+                            <i class="bi bi-pencil"></i>
+                        </a>
+                        |
+                        <a href="@Url.Action("Delete", new { id = item.Id })" class="custom-link btn btn-outline-danger btn-sm" title="Remover">
+                            <i class="bi bi-trash"></i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+<p>
+    <a asp-action="Create" class="btn-primary p-2 m-3 rounded-5 float-right " style="text-decoration: none">
+        Registrar Novo Cliente
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 6L12 18" stroke="#fff" stroke-width="2" stroke-linecap="round" />
+            <path d="M18 12L6 12" stroke="#fff" stroke-width="2" stroke-linecap="round" />
+        </svg>
+    </a>
+</p>
+

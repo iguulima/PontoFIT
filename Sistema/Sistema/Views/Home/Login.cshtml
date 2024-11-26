@@ -1,0 +1,39 @@
+﻿@model Domain.Domain.Usuario
+
+@{
+	Layout = "";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Login</title>
+	<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+	<link rel="stylesheet" href="~/css/login.css" />
+</head>
+
+<body>
+    <div>
+        <form asp-controller="Home" asp-action="Login" class="login-form">
+            <img src="~/css/logo.png" style="width: 60%; margin: 8vh 0;" />
+            <div class="login-input">
+                <svg width="25" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M16 18C20.9688 18 25 13.9688 25 9C25 4.03125 20.9688 0 16 0C11.0312 0 7 4.03125 7 9C7 13.9688 11.0312 18 16 18ZM24 20H20.5562C19.1687 20.6375 17.625 21 16 21C14.375 21 12.8375 20.6375 11.4438 20H8C3.58125 20 0 23.5812 0 28V29C0 30.6562 1.34375 32 3 32H29C30.6562 32 32 30.6562 32 29V28C32 23.5812 28.4188 20 24 20Z" fill="#91E7FF" />
+                </svg>
+                <input asp-for="Login" class="form-control" placeholder="Usuario" />
+                <span asp-validation-for="Login" class="text-danger"></span>
+            </div>
+            <div class="login-input">
+                <svg width="25" height="32" viewBox="0 0 26 29" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M23.2143 12.6875H21.8214V8.60938C21.8214 3.86289 17.8634 0 13 0C8.13661 0 4.17857 3.86289 4.17857 8.60938V12.6875H2.78571C1.24777 12.6875 0 13.9053 0 15.4062V26.2812C0 27.7822 1.24777 29 2.78571 29H23.2143C24.7522 29 26 27.7822 26 26.2812V15.4062C26 13.9053 24.7522 12.6875 23.2143 12.6875ZM17.1786 12.6875H8.82143V8.60938C8.82143 6.36074 10.696 4.53125 13 4.53125C15.304 4.53125 17.1786 6.36074 17.1786 8.60938V12.6875Z" fill="#91E7FF" />
+                </svg>
+                <input type="password" asp-for="Senha" class="form-control" placeholder="Senha" />
+                <span asp-validation-for="Senha" class="text-danger"></span>
+            </div>
+            <button type="submit" class="login-btn">ENTRAR</button>
+        </form>
+    </div>
+</body>
+</html>

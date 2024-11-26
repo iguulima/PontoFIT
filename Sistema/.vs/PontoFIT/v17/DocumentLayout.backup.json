@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{984C3D07-84B5-469C-A4A9-36187DE5B7E7}|Sistema\\Sistema.csproj|c:\\users\\igorl\\downloads\\sistemacompleto\\sistema\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{984C3D07-84B5-469C-A4A9-36187DE5B7E7}|Sistema\\Sistema.csproj|solutionrelative:sistema\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984C3D07-84B5-469C-A4A9-36187DE5B7E7}|Sistema\\Sistema.csproj|c:\\users\\igorl\\downloads\\sistemacompleto\\sistema\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984C3D07-84B5-469C-A4A9-36187DE5B7E7}|Sistema\\Sistema.csproj|solutionrelative:sistema\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{984C3D07-84B5-469C-A4A9-36187DE5B7E7}|Sistema\\Sistema.csproj|c:\\users\\igorl\\downloads\\sistemacompleto\\sistema\\utils\\servicecookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{984C3D07-84B5-469C-A4A9-36187DE5B7E7}|Sistema\\Sistema.csproj|solutionrelative:sistema\\utils\\servicecookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81B2C3B7-062D-41B9-B4BF-D32A17A5F904}|Domain\\Domain.csproj|c:\\users\\igorl\\downloads\\sistemacompleto\\domain\\ef\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{81B2C3B7-062D-41B9-B4BF-D32A17A5F904}|Domain\\Domain.csproj|solutionrelative:domain\\ef\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\appsettings.json",
+              "RelativeDocumentMoniker": "Sistema\\appsettings.json",
+              "ToolTip": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\appsettings.json",
+              "RelativeToolTip": "Sistema\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T22:18:25.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Domain\\EF\\Context.cs",
+              "RelativeDocumentMoniker": "Domain\\EF\\Context.cs",
+              "ToolTip": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Domain\\EF\\Context.cs",
+              "RelativeToolTip": "Domain\\EF\\Context.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:11:05.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServiceCookie.cs",
+              "DocumentMoniker": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\Utils\\ServiceCookie.cs",
+              "RelativeDocumentMoniker": "Sistema\\Utils\\ServiceCookie.cs",
+              "ToolTip": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\Utils\\ServiceCookie.cs",
+              "RelativeToolTip": "Sistema\\Utils\\ServiceCookie.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAnwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:03:48.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Sistema\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Sistema\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAnwFsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:01:34.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

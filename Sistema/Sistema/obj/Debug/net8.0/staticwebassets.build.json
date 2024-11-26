@@ -1,0 +1,4039 @@
+{
+  "Version": 1,
+  "Hash": "0+nSPKjbDXW5CYE4LGxvnMi96wMueLnpMJ83Ab9TtAg=",
+  "Source": "Sistema",
+  "BasePath": "_content/Sistema",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Sistema\\wwwroot",
+      "Source": "Sistema",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\login.css",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "css/login#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zll4m1pu3i",
+      "Integrity": "Z9BgghqRBNlOGqcsC52J6XElT6NOlKUW/IgvzbCKU+Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\logo.png",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "css/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7s7xif0gv2",
+      "Integrity": "WWzQW+NV+8XueVhW9pranPcLsm1Mi6VT4vnP8oP7rVA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\logo.png"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\site.css",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hdhjllpya4",
+      "Integrity": "S2ihmzMFFc3FWmBWsR+NiddZWa8kbyaQYBx2FDkIoHs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\style.css",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c91c3fznlo",
+      "Integrity": "oP++QYlNqg2zh+126r+dzkPNRJyTsgnTgqF+biokrFc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\favicon.ico",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\js\\site.js",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "js/site#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6b9nfc4n3r",
+      "Integrity": "4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gawgt6fljy",
+      "Integrity": "eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "k9n1kkbua6",
+      "Integrity": "CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "etnb7xlipe",
+      "Integrity": "rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kao5znno1s",
+      "Integrity": "xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9n0ta5ieki",
+      "Integrity": "ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0i1dcxd824",
+      "Integrity": "2MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q+Ms=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vxs71z90fw",
+      "Integrity": "vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jzb7jyrjvs",
+      "Integrity": "kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nynt4yc5xr",
+      "Integrity": "cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tgg2bl5mrw",
+      "Integrity": "3e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "brwg1hntyu",
+      "Integrity": "1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "gf2dxac9qe",
+      "Integrity": "dIm3VZXztwbIlhOzVt+ggg5Dvhp28MJQGJoweOH9cAE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u0biprgly9",
+      "Integrity": "srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "pxamm17y9e",
+      "Integrity": "3UpdqvoTc6M2sug8WtFhr/m3tg+4zLMgoMgjqpn5n1I=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hjuzisly30",
+      "Integrity": "XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "u9xms436mi",
+      "Integrity": "8i3JQdKYQQcJzmbkwhwY+1XPe7Utf1LdBnYZCvNmKWc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "48vr37mrsy",
+      "Integrity": "LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vaswmcjbo4",
+      "Integrity": "R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zu238p5lxg",
+      "Integrity": "O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sgi57dik4g",
+      "Integrity": "vMfBbEXmojM9AaHrIyKSo+20n5JM7KMyJkBCfL4pgL4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "weyt030wr8",
+      "Integrity": "iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vwa26bmbsk",
+      "Integrity": "QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5trh6b1mit",
+      "Integrity": "9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dsw5v3fbc5",
+      "Integrity": "PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "afgyafcsqt",
+      "Integrity": "WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wus95c49fh",
+      "Integrity": "qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sjab29p8z5",
+      "Integrity": "2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jdpnbaa6vo",
+      "Integrity": "yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "59qolqi738",
+      "Integrity": "F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "x0q3zqp4vz",
+      "Integrity": "geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0td7jq9nxb",
+      "Integrity": "XNNC8ESw29iopRLukVRazlP44TxnjGmEQanHJ5kHmtk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v12ed9ioy0",
+      "Integrity": "4xJOkIkaeBplN5tlcvxnCbBz34o5/kzpXcpjNkonVos=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "Sistema",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\",
+      "BasePath": "_content/Sistema",
+      "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wqejeusuyq",
+      "Integrity": "aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/login.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9BgghqRBNlOGqcsC52J6XElT6NOlKUW/IgvzbCKU+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 23:43:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9BgghqRBNlOGqcsC52J6XElT6NOlKUW/IgvzbCKU+Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/login.zll4m1pu3i.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\login.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1714"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Z9BgghqRBNlOGqcsC52J6XElT6NOlKUW/IgvzbCKU+Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 25 Nov 2024 23:43:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zll4m1pu3i"
+        },
+        {
+          "Name": "label",
+          "Value": "css/login.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Z9BgghqRBNlOGqcsC52J6XElT6NOlKUW/IgvzbCKU+Y="
+        }
+      ]
+    },
+    {
+      "Route": "css/logo.7s7xif0gv2.png",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WWzQW+NV+8XueVhW9pranPcLsm1Mi6VT4vnP8oP7rVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Sep 2024 02:25:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7s7xif0gv2"
+        },
+        {
+          "Name": "label",
+          "Value": "css/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WWzQW+NV+8XueVhW9pranPcLsm1Mi6VT4vnP8oP7rVA="
+        }
+      ]
+    },
+    {
+      "Route": "css/logo.png",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1918"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WWzQW+NV+8XueVhW9pranPcLsm1Mi6VT4vnP8oP7rVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Sep 2024 02:25:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WWzQW+NV+8XueVhW9pranPcLsm1Mi6VT4vnP8oP7rVA="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S2ihmzMFFc3FWmBWsR+NiddZWa8kbyaQYBx2FDkIoHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S2ihmzMFFc3FWmBWsR+NiddZWa8kbyaQYBx2FDkIoHs="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.hdhjllpya4.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S2ihmzMFFc3FWmBWsR+NiddZWa8kbyaQYBx2FDkIoHs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hdhjllpya4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S2ihmzMFFc3FWmBWsR+NiddZWa8kbyaQYBx2FDkIoHs="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.c91c3fznlo.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oP++QYlNqg2zh+126r+dzkPNRJyTsgnTgqF+biokrFc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 01:14:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c91c3fznlo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oP++QYlNqg2zh+126r+dzkPNRJyTsgnTgqF+biokrFc="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2417"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oP++QYlNqg2zh+126r+dzkPNRJyTsgnTgqF+biokrFc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 26 Nov 2024 01:14:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oP++QYlNqg2zh+126r+dzkPNRJyTsgnTgqF+biokrFc="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.6b9nfc4n3r.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6b9nfc4n3r"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "230"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.k9n1kkbua6.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "k9n1kkbua6"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "492048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CMAZj3JKoZUVYSxVPS/FeGatmYSvHkujo5oaZLNXx0o="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.gawgt6fljy.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "202385"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gawgt6fljy"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eEx7gvq+uEM0o4kUBiy/+Mxl6rHH9NQ9UzRBWHe9mXg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.kao5znno1s.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "625953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kao5znno1s"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "625953"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-xMZ0SaSBYZSHVjFdZTAT/IjRExRIxSriWcJLcA9nkj0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.etnb7xlipe.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "155764"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "etnb7xlipe"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rldnE7wZYJj3Q43t5v8fg1ojKRwyt0Wtfm+224CacZs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.9n0ta5ieki.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9n0ta5ieki"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "68266"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ezlzqfTqJZTjEDR18neKc2tUTZtWoz3oQ/ouWY9WmO8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.0i1dcxd824.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q+Ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0i1dcxd824"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q+Ms="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "151749"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q+Ms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2MgjO0zpqYZscatQSGWJ9Io9U8EjvXk0iYygYz1Q+Ms="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.jzb7jyrjvs.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jzb7jyrjvs"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "108539"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kZzlXLpTC0WvL0AL7nXf07BJ28WnY/1H/HrKgS68Q4I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.vxs71z90fw.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vxs71z90fw"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-grid.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vdSFRAWr6LTognRmxyi6QlSO5O+MC+VGyMbziTrBmBQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.tgg2bl5mrw.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "76483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tgg2bl5mrw"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3e6awqXPijx918dzyzbbHKwaDBTsIQ8Us38QY30GRms="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.brwg1hntyu.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "brwg1hntyu"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1z7sRzwNyqpcTrqPd/iXuzoApqDdjpRbHwjAZ8QMhOk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.gf2dxac9qe.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dIm3VZXztwbIlhOzVt+ggg5Dvhp28MJQGJoweOH9cAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "gf2dxac9qe"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-dIm3VZXztwbIlhOzVt+ggg5Dvhp28MJQGJoweOH9cAE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32461"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"dIm3VZXztwbIlhOzVt+ggg5Dvhp28MJQGJoweOH9cAE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-dIm3VZXztwbIlhOzVt+ggg5Dvhp28MJQGJoweOH9cAE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap-reboot.nynt4yc5xr.css",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5227"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nynt4yc5xr"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap-reboot.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZWhU8ntBevnbhNEh3hunnIoi6dE1eUwX41sB6+bHmo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.48vr37mrsy.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "48vr37mrsy"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "402249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3UpdqvoTc6M2sug8WtFhr/m3tg+4zLMgoMgjqpn5n1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-3UpdqvoTc6M2sug8WtFhr/m3tg+4zLMgoMgjqpn5n1I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.pxamm17y9e.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "402249"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"3UpdqvoTc6M2sug8WtFhr/m3tg+4zLMgoMgjqpn5n1I=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "pxamm17y9e"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-3UpdqvoTc6M2sug8WtFhr/m3tg+4zLMgoMgjqpn5n1I="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.hjuzisly30.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hjuzisly30"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XZfkOGd6FuhF88h5GgEmRIpXbm+hBkFo74yYDPY5rbw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8i3JQdKYQQcJzmbkwhwY+1XPe7Utf1LdBnYZCvNmKWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8i3JQdKYQQcJzmbkwhwY+1XPe7Utf1LdBnYZCvNmKWc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.u9xms436mi.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "311949"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8i3JQdKYQQcJzmbkwhwY+1XPe7Utf1LdBnYZCvNmKWc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u9xms436mi"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8i3JQdKYQQcJzmbkwhwY+1XPe7Utf1LdBnYZCvNmKWc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.bundle.u0biprgly9.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229924"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "u0biprgly9"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.bundle.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-srIwGYgANrjaabGVuC3G7O0jv1Xh3Kt7dIc3/P0Ebf0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136072"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LKpkBN2w3iudGRseLItcNcaMpI8qlSEUC7+DsnwGNwA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.js.vaswmcjbo4.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "250568"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vaswmcjbo4"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R81NA2DWe8EPjZ2OUhieXYgvvXBnm78oMdeqOtSEr7c="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vMfBbEXmojM9AaHrIyKSo+20n5JM7KMyJkBCfL4pgL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vMfBbEXmojM9AaHrIyKSo+20n5JM7KMyJkBCfL4pgL4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.sgi57dik4g.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "190253"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vMfBbEXmojM9AaHrIyKSo+20n5JM7KMyJkBCfL4pgL4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sgi57dik4g"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vMfBbEXmojM9AaHrIyKSo+20n5JM7KMyJkBCfL4pgL4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.zu238p5lxg.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58078"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zu238p5lxg"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-O82ALp93hJ58HpPIcnn7uwTUWUnSvnmwNWbOrN4psVg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE.weyt030wr8",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "weyt030wr8"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iMA3h2QDzhvwmVtohviPpq8VwRv3UMY/PEE+ao7bBq0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.5trh6b1mit.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5trh6b1mit"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.dsw5v3fbc5.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dsw5v3fbc5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "89476"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "137974"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-PVB97BePQ5JED6qSU7EvSun5iseF5FinCKtqsv5X9uA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.vwa26bmbsk.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "287630"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vwa26bmbsk"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.afgyafcsqt.txt",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "afgyafcsqt"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1641"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WtKlDye/qV68IA2W1tHFTyXyc/HjQvQKBpIK1CEulFM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.min.sjab29p8z5.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "18467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjab29p8z5"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2F/T6dcoSumcuA/fcU4W36VpSKPtq4nQf/0/vNFsC+w="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/additional-methods.wus95c49fh.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "43184"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wus95c49fh"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/additional-methods.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qLDpf9Urms7R6rnASrjHz38WdQfOvSOmTgLDfzQSzIQ="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.jdpnbaa6vo.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jdpnbaa6vo"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "48676"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yazfaIh2SXu8rPenyD2f36pKgrkv5XT+DQCDpZ/eDao="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.59qolqi738.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "59qolqi738"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/dist/jquery.validate.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23261"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F6h55Qw6sweK+t7SiOJX+2bpSAa3b/fnlrVCJvmEj1A="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.md",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation/LICENSE.x0q3zqp4vz.md",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1117"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/markdown"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "x0q3zqp4vz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation/LICENSE.md"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.0td7jq9nxb.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XNNC8ESw29iopRLukVRazlP44TxnjGmEQanHJ5kHmtk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0td7jq9nxb"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNNC8ESw29iopRLukVRazlP44TxnjGmEQanHJ5kHmtk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19366"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XNNC8ESw29iopRLukVRazlP44TxnjGmEQanHJ5kHmtk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XNNC8ESw29iopRLukVRazlP44TxnjGmEQanHJ5kHmtk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4xJOkIkaeBplN5tlcvxnCbBz34o5/kzpXcpjNkonVos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4xJOkIkaeBplN5tlcvxnCbBz34o5/kzpXcpjNkonVos="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.v12ed9ioy0.js",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4xJOkIkaeBplN5tlcvxnCbBz34o5/kzpXcpjNkonVos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v12ed9ioy0"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4xJOkIkaeBplN5tlcvxnCbBz34o5/kzpXcpjNkonVos="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery-validation-unobtrusive/LICENSE.wqejeusuyq.txt",
+      "AssetFile": "C:\\Users\\igorl\\Downloads\\SistemaCompleto\\Sistema\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "587"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 10 May 2024 19:28:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wqejeusuyq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery-validation-unobtrusive/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aBc/n/nO9esvq0e80G57lEYLonvE5dKKUgoozaiVfLM="
+        }
+      ]
+    }
+  ]
+}
