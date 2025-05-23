@@ -2,10 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\back-end",
-    "\\back-end\\Sistema",
-    "\\back-end\\Sistema\\Controllers",
-    "\\front-end"
+    "\\back-end\\PontoFIT.Api",
+    "\\back-end\\PontoFIT.Api\\Controllers",
+    "\\back-end\\PontoFIT.Api\\Data",
+    "\\back-end\\PontoFIT.Api\\Models",
+    "\\back-end\\PontoFIT.Api\\Properties"
   ],
-  "SelectedNode": "\\back-end\\Sistema\\Controllers\\HomeController.cs",
+  "SelectedNode": "\\back-end\\PontoFIT.Api\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }
